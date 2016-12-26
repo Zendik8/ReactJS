@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="716fc363-ae7f-49f0-bf8e-4b1cd6e04dd5" name="Default" comment="Initial commit, setup finish&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/Header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app/components/Home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="716fc363-ae7f-49f0-bf8e-4b1cd6e04dd5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/app/index.js" afterPath="$PROJECT_DIR$/src/app/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="reactjs.loc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -302,12 +297,20 @@
       <option name="presentableId" value="Default" />
       <updated>1482765049043</updated>
       <workItem from="1482765050176" duration="4473000" />
-      <workItem from="1482770060440" duration="6092000" />
+      <workItem from="1482770060440" duration="6545000" />
     </task>
+    <task id="LOCAL-00001" summary="will be min change">
+      <created>1482777507412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482777507412</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10565000" />
+    <option name="totallyTimeSpent" value="11018000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="22" width="1434" height="794" extended-state="0" />
@@ -346,7 +349,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit, setup finish&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit, setup finish&#10;" />
+    <MESSAGE value="will be min change" />
+    <option name="LAST_COMMIT_MESSAGE" value="will be min change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
